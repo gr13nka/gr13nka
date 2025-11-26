@@ -1,4 +1,4 @@
-### Hi there 👋
+# ML RND + Game Developer
 
 <!--
 **gr13nka/gr13nka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
